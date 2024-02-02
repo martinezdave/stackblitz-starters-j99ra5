@@ -1,0 +1,16 @@
+.dark-button, .light-button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+.light-button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  color: black;
+}
